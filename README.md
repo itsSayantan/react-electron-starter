@@ -5,6 +5,7 @@ A starting point if you are creating a React.JS application using create-react-a
 - Clone this repository
 - Open the ```package.json``` file and edit the ```name``` key to ```<your_project_name>```
 - Open the terminal in the project root directory and run the following command: ```npm install```
+- Run the application using the command: ```npm run electron-dev```
 
 # Description
 - This project is created using create-react-app (https://www.npmjs.com/package/create-react-app) and Electron.JS (https://www.npmjs.com/package/electron)
